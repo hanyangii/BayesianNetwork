@@ -1,0 +1,16 @@
+>
+p:BC=1
+>
+p:SkinRetract=1
+g:FibrTissueDev=1
+g:BC=0
+>
+p:Size=0
+g:Mass=0
+>
+p:Mass=1
+g:BC=1
+g:BreastDensity=0
+>
+p:FibrTissueDev=1
+g:AD=1

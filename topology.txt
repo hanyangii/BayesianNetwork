@@ -1,0 +1,10 @@
+BC
+BreastDensity
+AD,BC
+FibrTissueDev,AD
+Spiculation,FibrTissueDev
+NippleDischarge,FibrTissueDev,BC
+SkinRetract,FibrTissueDev,BC
+Mass,BC,BreastDensity
+Size,Mass
+Margin,Mass
