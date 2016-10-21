@@ -3,4 +3,5 @@
 
 
 You can excute
+
 python bn.py [topology file] [inference file] [train file]
